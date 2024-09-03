@@ -26,7 +26,7 @@ public class Solution {
 
     private bool IsPalindrom(string s)
     {
-        for (int i = 0; i < s.Length; i++)
+        for (int i = 0; i < s.Length / 2; i++)
         {
             if (s[i] != s[s.Length - (i + 1)])
                 return false;
