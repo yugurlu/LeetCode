@@ -1,5 +1,6 @@
 int myAtoi(char* s) {
-    long result = 0, i = 0, digit = 1, negative = 1;
+    long result = 0;
+    int i = 0, digit = 0, negative = 1;
 
     while (s[i] == 32 || (s[i] >= 9 && s[i] <= 13))
         i++;
