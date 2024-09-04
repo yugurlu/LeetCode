@@ -14,9 +14,9 @@ public class Solution {
         {
             result = result * 10 + x % 10;
             x /= 10;
-            
-            if (result > int.MaxValue || result < int.MinValue) return 0;
         }
+        
+        if (result > int.MaxValue || result < int.MinValue) return 0;
 
         return negative ? ((int)result * -1) : (int)result;
     }
