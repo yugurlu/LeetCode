@@ -2,21 +2,13 @@ public class Solution {
     public int MinBitFlips(int start, int goal)
     {
         int minFlips = 0;
+        int c = start ^ goal;
 
-        string s = Convert.ToString(start, 2);
-        string g = Convert.ToString(goal, 2);
-
-        int len = s.Length > g.Length ? s.Length : g.Length;
-
-        while (s.Length != len)
-            s = s.Insert(0, "0");
+        string newBits = Convert.ToString(c, 2);
         
-        while (g.Length != len)
-            g = g.Insert(0, "0");
-
-        for (int i = 0; i < len; i++)
-            if (g[i] != s[i]) minFlips++;
-
+        for (int i = 0; i < newBits.Length; i++)
+            if (newBits[i] == '1') minFlips++;
+        
         return minFlips;
     }
 }
