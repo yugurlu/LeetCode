@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugurlu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
@@ -23,11 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugurlu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
@@ -37,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugurlu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
