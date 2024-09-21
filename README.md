@@ -52,4 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yugurlu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/yugurlu/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/yugurlu/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
