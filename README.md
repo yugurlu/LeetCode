@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugurlu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/yugurlu/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/yugurlu/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/yugurlu/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
