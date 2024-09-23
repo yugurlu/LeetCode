@@ -5,6 +5,5 @@
  */
 var strStr = function (haystack, needle) {
     const index = haystack.indexOf(needle)
-    if (index != -1) return index
-    return -1
+    return index != -1 ? index : -1
 };
