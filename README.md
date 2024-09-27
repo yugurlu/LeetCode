@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yugurlu/LeetCode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugurlu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yugurlu/LeetCode/tree/master/0066-plus-one) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
