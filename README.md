@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Bit Manipulation
 |  |
 | ------- |
+| [1054-complement-of-base-10-integer](https://github.com/yugurlu/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugurlu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
