@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugurlu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugurlu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugurlu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yugurlu/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugurlu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugurlu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugurlu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yugurlu/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [1541-top-travellers](https://github.com/yugurlu/LeetCode/tree/master/1541-top-travellers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugurlu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
