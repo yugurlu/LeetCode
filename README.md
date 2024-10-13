@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0012-integer-to-roman](https://github.com/yugurlu/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/yugurlu/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yugurlu/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/yugurlu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/yugurlu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 ## String
@@ -130,5 +131,10 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yugurlu/LeetCode/tree/master/0070-climbing-stairs) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/yugurlu/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yugurlu/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
