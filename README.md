@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yugurlu/LeetCode/tree/master/0067-add-binary) |
 | [1054-complement-of-base-10-integer](https://github.com/yugurlu/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugurlu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | ------- |
 | [0012-integer-to-roman](https://github.com/yugurlu/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/yugurlu/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/yugurlu/LeetCode/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/yugurlu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 ## String
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0020-valid-parentheses](https://github.com/yugurlu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yugurlu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yugurlu/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/yugurlu/LeetCode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/yugurlu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yugurlu/LeetCode/tree/master/0067-add-binary) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yugurlu/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yugurlu/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
