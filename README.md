@@ -27,12 +27,14 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yugurlu/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/yugurlu/LeetCode/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/yugurlu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yugurlu/LeetCode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yugurlu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yugurlu/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yugurlu/LeetCode/tree/master/0012-integer-to-roman) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yugurlu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugurlu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
