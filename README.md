@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugurlu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugurlu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugurlu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/yugurlu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/yugurlu/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yugurlu/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | ------- |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugurlu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/yugurlu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugurlu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/yugurlu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
