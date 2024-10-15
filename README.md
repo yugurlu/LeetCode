@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yugurlu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yugurlu/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yugurlu/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/yugurlu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/yugurlu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yugurlu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/yugurlu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugurlu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/yugurlu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
