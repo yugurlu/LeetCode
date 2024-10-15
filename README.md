@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugurlu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yugurlu/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yugurlu/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/yugurlu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugurlu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yugurlu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/yugurlu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yugurlu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugurlu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/yugurlu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
 |  |
 | ------- |
