@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0067-add-binary](https://github.com/yugurlu/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yugurlu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/yugurlu/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0263-ugly-number](https://github.com/yugurlu/LeetCode/tree/master/0263-ugly-number) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
