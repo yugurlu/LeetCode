@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/yugurlu/LeetCode/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yugurlu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/yugurlu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yugurlu/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/yugurlu/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yugurlu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugurlu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/yugurlu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yugurlu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Database
 |  |
