@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0227-basic-calculator-ii](https://github.com/yugurlu/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/yugurlu/LeetCode/tree/master/0263-ugly-number) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/yugurlu/LeetCode/tree/master/0670-maximum-swap) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/yugurlu/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yugurlu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/yugurlu/LeetCode/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yugurlu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
