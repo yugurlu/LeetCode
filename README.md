@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0217-contains-duplicate](https://github.com/yugurlu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0643-maximum-average-subarray-i](https://github.com/yugurlu/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yugurlu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugurlu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugurlu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -158,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yugurlu/LeetCode/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/yugurlu/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
