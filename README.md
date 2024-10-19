@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yugurlu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/yugurlu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/yugurlu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/yugurlu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/yugurlu/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yugurlu/LeetCode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/yugurlu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1054-complement-of-base-10-integer](https://github.com/yugurlu/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yugurlu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 | [0125-valid-palindrome](https://github.com/yugurlu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yugurlu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yugurlu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/yugurlu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yugurlu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/yugurlu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yugurlu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/yugurlu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Database
 |  |
