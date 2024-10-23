@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yugurlu/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yugurlu/LeetCode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yugurlu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - My profile [Leet
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yugurlu/LeetCode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/yugurlu/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yugurlu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yugurlu/LeetCode/tree/master/0217-contains-duplicate) |
